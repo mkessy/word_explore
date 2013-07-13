@@ -1,0 +1,109 @@
+Word:	king (n.)
+
+
+[u'Old English cyning "king, ruler," from Proto-Germanic *kuninggaz (cf. Dutch koning, Old Norse konungr, Danish konge, Old Saxon and Old High German kuning, Middle High German k\xfcnic, German K\xf6nig).',
+ u'Possibly related to Old English cynn "family, race" (see kin), making a king originally a "leader of the people;" or from a related root suggesting "noble birth," making a king originally "one who descended from noble birth."',
+ u'The sociological and ideological implications render this a topic of much debate.']
+
+===================================
+
+Word:	bleach (v.)
+
+
+[u'Old English bl\xe6can "bleach, whiten," from Proto-Germanic *blaikjan "to make white" (cf. Old Saxon blek, Old Norse bleikr, Dutch bleek, Old High German bleih, German bleich "pale;" Old Norse bleikja, Dutch bleken, German bleichen "to bleach"), from PIE root *bhel- (1) "to shine, flash, burn" (cf. Sanskrit bhrajate "shines;" Greek phlegein "to burn;" Latin flamma "flame," fulmen "lightning," fulgere "to shine, flash," flagrare "to burn;" Old Church Slavonic belu "white;" Lithuanian balnas "pale").',
+ u'The same root probably produced black; perhaps because both black and white are colorless, or because both are associated with burning.',
+ u'Related: Bleached; bleaching.']
+
+===================================
+
+Word:	antithesis (n.)
+
+
+['1520s, from Late Latin antithesis, from Greek antithesis "opposition, resistance," literally "a placing against," also a term in logic and rhetoric, noun of action from antitithenai "to set against, oppose," a term in logic, from anti- "against" (see anti-) + tithenai "to place," from PIE root *dhe- "to put, to do" (see factitious).']
+
+===================================
+
+Word:	face (n.)
+
+
+['late 13c., "front of the head," from Old French face (12c.) "face, countenance, look, appearance," from Vulgar Latin *facia (cf. Italian faccia), from Latin facies "appearance, form, figure," and secondarily "visage, countenance;" probably related to facere "to make" (see factitious).']
+
+===================================
+
+Word:	porpoise (n.)
+
+
+['early 14c., porpas, from Old French porpais (12c.) "porpoise," literally "pork fish," from porc "pork" (see pork (n.)) + peis "fish," from Latin piscis "fish" (see fish (n.)).']
+
+===================================
+
+Word:	dealer (n.)
+
+
+[u'Old English d\xe6lere "divider, distributor; agent, negotiator," agent noun from deal (v.).',
+ u'Meaning "player who passes out the cards in a game" is from c.1600; meaning "one who deals in merchandise" is from 1610s.',
+ u'Illegal drug sense is recorded by 1920.']
+
+===================================
+
+Word:	poise (n.)
+
+
+[u'early 15c., "weight, quality of being heavy," later "significance, importance" (mid-15c.), from Old French pois "weight, balance, consideration" (12c., Modern French poids), from Medieval Latin pesum "weight," from Latin pensum "something weighted or weighed," (source of Proven\xe7al and Catalan pes, Spanish, Portuguese, Italian peso), noun use of neuter past participle of pendere "to weigh" (see pendant).']
+
+===================================
+
+Word:	spirit (n.)
+
+
+['mid-13c., "animating or vital principle in man and animals," from Old French espirit, from Latin spiritus "soul, courage, vigor, breath," related to spirare "to breathe," from PIE *(s)peis- "to blow" (cf. Old Church Slavonic pisto "to play on the flute").']
+
+===================================
+
+Word:	edgeways
+
+
+['also edge-ways, 1560s, from edge (n.) + -ways.',
+ 'First attested form of the word is edgewaie; the adv. genitive -s appears by 1640s.',
+ 'Edgewise (1715) appears to be a variant, based on otherwise, etc. See edge (v.).']
+
+===================================
+
+Word:	bunch (n.)
+
+
+['early 14c., "protuberance on the body, swelling," perhaps echoic of the sound of hitting and connected to bump (cf., possibly in similar relationship, hump/hunch).']
+
+===================================
+
+Word:	case (n.2)
+
+
+[u'"receptacle," early 14c., from Anglo-French and Old North French casse (Old French chasse "case, reliquary;" Modern French ch\xe2sse), from Latin capsa "box, repository" (especially for books), from capere "to take, hold" (see capable).']
+
+===================================
+
+Word:	hog (n.)
+
+
+['late 12c. (implied in hogaster), "swine reared for slaughter" (usually about a year old), also used by stockmen for "young sheep" (mid-14c.) and for "horse older than one year," suggesting the original sense had something to do with an age, not a type of animal.',
+ 'Not evidenced in Old English, but it may have existed.',
+ 'Possibility of British Celtic origin {Watkins, etc.] is regarded by OED as "improbable."',
+ 'Figurative sense of "gluttonous person" is first recorded early 15c. Meaning "Harley-Davidson motorcycle" is attested from 1967.']
+
+===================================
+
+Word:	begetter (n.)
+
+
+['mid-15c., agent noun from beget.']
+
+===================================
+
+Word:	cap (n.)
+
+
+[u'late Old English c\xe6ppe "hood, head-covering, cape," from Late Latin cappa "a cape, hooded cloak" (source of Spanish capa, Old North French cape, French chape), possibly a shortened from capitulare "headdress," from Latin caput "head" (see head (n.)).']
+
+===================================
+
