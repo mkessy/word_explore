@@ -1,0 +1,142 @@
+
+Word:	king (n.)
+
+
+SENTENCE: #0
+
+		[u'Old', u'English', u'cyning', u'``', u'king', u',', u'ruler', u',', u"''", u'from', u'Proto-Germanic', u'*kuninggaz', u'(', u'cf.', u'Dutch', u'koning', u',', u'Old', u'Norse', u'konungr', u',', u'Danish', u'konge', u',', u'Old', u'Saxon', u'and', u'Old', u'High', u'German', u'kuning', u',', u'Middle', u'High', u'German', u'k\xfcnic', u',', u'German', u'K\xf6nig', u')', u'.']
+
+SENTENCE: #1
+
+		[u'Possibly', u'related', u'to', u'Old', u'English', u'cynn', u'``', u'family', u',', u'race', u"''", u'(', u'see', u'kin', u')', u',', u'making', u'a', u'king', u'originally', u'a', u'``', u'leader', u'of', u'the', u'people', u';', u"''", u'or', u'from', u'a', u'related', u'root', u'suggesting', u'``', u'noble', u'birth', u',', u"''", u'making', u'a', u'king', u'originally', u'``', u'one', u'who', u'descended', u'from', u'noble', u'birth', u'.', u"''"]
+
+SENTENCE: #2
+
+		[u'The', u'sociological', u'and', u'ideological', u'implications', u'render', u'this', u'a', u'topic', u'of', u'much', u'debate', u'.']
+
+Word:	bleach (v.)
+
+
+SENTENCE: #0
+
+		[u'Old', u'English', u'bl\xe6can', u'``', u'bleach', u',', u'whiten', u',', u"''", u'from', u'Proto-Germanic', u'*blaikjan', u'``', u'to', u'make', u'white', u"''", u'(', u'cf.', u'Old', u'Saxon', u'blek', u',', u'Old', u'Norse', u'bleikr', u',', u'Dutch', u'bleek', u',', u'Old', u'High', u'German', u'bleih', u',', u'German', u'bleich', u'``', u'pale', u';', u"''", u'Old', u'Norse', u'bleikja', u',', u'Dutch', u'bleken', u',', u'German', u'bleichen', u'``', u'to', u'bleach', u"''", u')', u',', u'from', u'PIE', u'root', u'*bhel-', u'(', u'1', u')', u'``', u'to', u'shine', u',', u'flash', u',', u'burn', u"''", u'(', u'cf.', u'Sanskrit', u'bhrajate', u'``', u'shines', u';', u"''", u'Greek', u'phlegein', u'``', u'to', u'burn', u';', u"''", u'Latin', u'flamma', u'``', u'flame', u',', u"''", u'fulmen', u'``', u'lightning', u',', u"''", u'fulgere', u'``', u'to', u'shine', u',', u'flash', u',', u"''", u'flagrare', u'``', u'to', u'burn', u';', u"''", u'Old', u'Church', u'Slavonic', u'belu', u'``', u'white', u';', u"''", u'Lithuanian', u'balnas', u'``', u'pale', u"''", u')', u'.']
+
+SENTENCE: #1
+
+		[u'The', u'same', u'root', u'probably', u'produced', u'black', u';', u'perhaps', u'because', u'both', u'black', u'and', u'white', u'are', u'colorless', u',', u'or', u'because', u'both', u'are', u'associated', u'with', u'burning', u'.']
+
+SENTENCE: #2
+
+		[u'Related', u':', u'Bleached', u';', u'bleaching', u'.']
+
+Word:	antithesis (n.)
+
+
+SENTENCE: #0
+
+		['1520s', ',', 'from', 'Late', 'Latin', 'antithesis', ',', 'from', 'Greek', 'antithesis', '``', 'opposition', ',', 'resistance', ',', "''", 'literally', '``', 'a', 'placing', 'against', ',', "''", 'also', 'a', 'term', 'in', 'logic', 'and', 'rhetoric', ',', 'noun', 'of', 'action', 'from', 'antitithenai', '``', 'to', 'set', 'against', ',', 'oppose', ',', "''", 'a', 'term', 'in', 'logic', ',', 'from', 'anti-', '``', 'against', "''", '(', 'see', 'anti-', ')', '+', 'tithenai', '``', 'to', 'place', ',', "''", 'from', 'PIE', 'root', '*dhe-', '``', 'to', 'put', ',', 'to', 'do', "''", '(', 'see', 'factitious', ')', '.']
+
+Word:	face (n.)
+
+
+SENTENCE: #0
+
+		['late', '13c.', ',', '``', 'front', 'of', 'the', 'head', ',', "''", 'from', 'Old', 'French', 'face', '(', '12c.', ')', '``', 'face', ',', 'countenance', ',', 'look', ',', 'appearance', ',', "''", 'from', 'Vulgar', 'Latin', '*facia', '(', 'cf.', 'Italian', 'faccia', ')', ',', 'from', 'Latin', 'facies', '``', 'appearance', ',', 'form', ',', 'figure', ',', "''", 'and', 'secondarily', '``', 'visage', ',', 'countenance', ';', "''", 'probably', 'related', 'to', 'facere', '``', 'to', 'make', "''", '(', 'see', 'factitious', ')', '.']
+
+Word:	porpoise (n.)
+
+
+SENTENCE: #0
+
+		['early', '14c.', ',', 'porpas', ',', 'from', 'Old', 'French', 'porpais', '(', '12c.', ')', '``', 'porpoise', ',', "''", 'literally', '``', 'pork', 'fish', ',', "''", 'from', 'porc', '``', 'pork', "''", '(', 'see', 'pork', '(', 'n.', ')', ')', '+', 'peis', '``', 'fish', ',', "''", 'from', 'Latin', 'piscis', '``', 'fish', "''", '(', 'see', 'fish', '(', 'n.', ')', ')', '.']
+
+Word:	dealer (n.)
+
+
+SENTENCE: #0
+
+		[u'Old', u'English', u'd\xe6lere', u'``', u'divider', u',', u'distributor', u';', u'agent', u',', u'negotiator', u',', u"''", u'agent', u'noun', u'from', u'deal', u'(', u'v.', u')', u'.']
+
+SENTENCE: #1
+
+		[u'Meaning', u'``', u'player', u'who', u'passes', u'out', u'the', u'cards', u'in', u'a', u'game', u"''", u'is', u'from', u'c.1600', u';', u'meaning', u'``', u'one', u'who', u'deals', u'in', u'merchandise', u"''", u'is', u'from', u'1610s', u'.']
+
+SENTENCE: #2
+
+		[u'Illegal', u'drug', u'sense', u'is', u'recorded', u'by', u'1920', u'.']
+
+Word:	poise (n.)
+
+
+SENTENCE: #0
+
+		[u'early', u'15c.', u',', u'``', u'weight', u',', u'quality', u'of', u'being', u'heavy', u',', u"''", u'later', u'``', u'significance', u',', u'importance', u"''", u'(', u'mid-15c.', u')', u',', u'from', u'Old', u'French', u'pois', u'``', u'weight', u',', u'balance', u',', u'consideration', u"''", u'(', u'12c.', u',', u'Modern', u'French', u'poids', u')', u',', u'from', u'Medieval', u'Latin', u'pesum', u'``', u'weight', u',', u"''", u'from', u'Latin', u'pensum', u'``', u'something', u'weighted', u'or', u'weighed', u',', u"''", u'(', u'source', u'of', u'Proven\xe7al', u'and', u'Catalan', u'pes', u',', u'Spanish', u',', u'Portuguese', u',', u'Italian', u'peso', u')', u',', u'noun', u'use', u'of', u'neuter', u'past', u'participle', u'of', u'pendere', u'``', u'to', u'weigh', u"''", u'(', u'see', u'pendant', u')', u'.']
+
+Word:	spirit (n.)
+
+
+SENTENCE: #0
+
+		['mid-13c.', ',', '``', 'animating', 'or', 'vital', 'principle', 'in', 'man', 'and', 'animals', ',', "''", 'from', 'Old', 'French', 'espirit', ',', 'from', 'Latin', 'spiritus', '``', 'soul', ',', 'courage', ',', 'vigor', ',', 'breath', ',', "''", 'related', 'to', 'spirare', '``', 'to', 'breathe', ',', "''", 'from', 'PIE', '*', '(', 's', ')', 'peis-', '``', 'to', 'blow', "''", '(', 'cf.', 'Old', 'Church', 'Slavonic', 'pisto', '``', 'to', 'play', 'on', 'the', 'flute', "''", ')', '.']
+
+Word:	edgeways
+
+
+SENTENCE: #0
+
+		['also', 'edge-ways', ',', '1560s', ',', 'from', 'edge', '(', 'n.', ')', '+', '-ways', '.']
+
+SENTENCE: #1
+
+		['First', 'attested', 'form', 'of', 'the', 'word', 'is', 'edgewaie', ';', 'the', 'adv.', 'genitive', '-s', 'appears', 'by', '1640s', '.']
+
+SENTENCE: #2
+
+		['Edgewise', '(', '1715', ')', 'appears', 'to', 'be', 'a', 'variant', ',', 'based', 'on', 'otherwise', ',', 'etc.', 'See', 'edge', '(', 'v.', ')', '.']
+
+Word:	bunch (n.)
+
+
+SENTENCE: #0
+
+		['early', '14c.', ',', '``', 'protuberance', 'on', 'the', 'body', ',', 'swelling', ',', "''", 'perhaps', 'echoic', 'of', 'the', 'sound', 'of', 'hitting', 'and', 'connected', 'to', 'bump', '(', 'cf.', ',', 'possibly', 'in', 'similar', 'relationship', ',', 'hump/hunch', ')', '.']
+
+Word:	case (n.2)
+
+
+SENTENCE: #0
+
+		[u'``', u'receptacle', u',', u"''", u'early', u'14c.', u',', u'from', u'Anglo-French', u'and', u'Old', u'North', u'French', u'casse', u'(', u'Old', u'French', u'chasse', u'``', u'case', u',', u'reliquary', u';', u"''", u'Modern', u'French', u'ch\xe2sse', u')', u',', u'from', u'Latin', u'capsa', u'``', u'box', u',', u'repository', u"''", u'(', u'especially', u'for', u'books', u')', u',', u'from', u'capere', u'``', u'to', u'take', u',', u'hold', u"''", u'(', u'see', u'capable', u')', u'.']
+
+Word:	hog (n.)
+
+
+SENTENCE: #0
+
+		['late', '12c.', '(', 'implied', 'in', 'hogaster', ')', ',', '``', 'swine', 'reared', 'for', 'slaughter', "''", '(', 'usually', 'about', 'a', 'year', 'old', ')', ',', 'also', 'used', 'by', 'stockmen', 'for', '``', 'young', 'sheep', "''", '(', 'mid-14c.', ')', 'and', 'for', '``', 'horse', 'older', 'than', 'one', 'year', ',', "''", 'suggesting', 'the', 'original', 'sense', 'had', 'something', 'to', 'do', 'with', 'an', 'age', ',', 'not', 'a', 'type', 'of', 'animal', '.']
+
+SENTENCE: #1
+
+		['Not', 'evidenced', 'in', 'Old', 'English', ',', 'but', 'it', 'may', 'have', 'existed', '.']
+
+SENTENCE: #2
+
+		['Possibility', 'of', 'British', 'Celtic', 'origin', '{', 'Watkins', ',', 'etc.', ']', 'is', 'regarded', 'by', 'OED', 'as', '``', 'improbable', '.', "''"]
+
+SENTENCE: #3
+
+		['Figurative', 'sense', 'of', '``', 'gluttonous', 'person', "''", 'is', 'first', 'recorded', 'early', '15c.', 'Meaning', '``', 'Harley-Davidson', 'motorcycle', "''", 'is', 'attested', 'from', '1967', '.']
+
+Word:	begetter (n.)
+
+
+SENTENCE: #0
+
+		['mid-15c.', ',', 'agent', 'noun', 'from', 'beget', '.']
+
+Word:	cap (n.)
+
+
+SENTENCE: #0
+
+		[u'late', u'Old', u'English', u'c\xe6ppe', u'``', u'hood', u',', u'head-covering', u',', u'cape', u',', u"''", u'from', u'Late', u'Latin', u'cappa', u'``', u'a', u'cape', u',', u'hooded', u'cloak', u"''", u'(', u'source', u'of', u'Spanish', u'capa', u',', u'Old', u'North', u'French', u'cape', u',', u'French', u'chape', u')', u',', u'possibly', u'a', u'shortened', u'from', u'capitulare', u'``', u'headdress', u',', u"''", u'from', u'Latin', u'caput', u'``', u'head', u"''", u'(', u'see', u'head', u'(', u'n.', u')', u')', u'.']
